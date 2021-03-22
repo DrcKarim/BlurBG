@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677760253680",
+    "firebase_url": "https://blurbg-3b4b2.firebaseio.com",
+    "project_id": "blurbg-3b4b2",
+    "storage_bucket": "blurbg-3b4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677760253680:android:b3c2396c19d10e03be0c35",
+        "android_client_info": {
+          "package_name": "com.BestofallPhotography.BlurBGPhotoEditor.BlurBackgroundDSLR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677760253680-erm4qoo11r83qnarf9pheq9tfv387qns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMNZGfKF1eqTrZA7WrbvL_MlMy-GGn9H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677760253680-erm4qoo11r83qnarf9pheq9tfv387qns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

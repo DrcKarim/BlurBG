@@ -1,0 +1,28 @@
+<resources>
+
+	<!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Brush sizes -->
+
+    <dimen name="value_10">10.0dip</dimen>
+	<dimen name="value_15">15.0dip</dimen>
+	<dimen name="value_2">2.0dip</dimen>
+	<dimen name="value_4">4.0dip</dimen>
+	<dimen name="value_5">5.0dip</dimen>
+	<dimen name="value_7">7.0dip</dimen>
+	<dimen name="value_8">8.0dip</dimen>
+	<dimen name="value_9">9.0dip</dimen>
+	<dimen name="dimen_10">10dp</dimen>
+	<dimen name="dimen_100">100dp</dimen>
+	<dimen name="dimen_120">120dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_30">25dp</dimen>
+    <dimen name="dimen_40">20dp</dimen>
+	<dimen name="dimen_5">5dp</dimen>
+	<dimen name="dimen_50">50dp</dimen>
+	<dimen name="dimen_60">70dp</dimen>
+	<dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_90">90dp</dimen>
+    <dimen name="textsize">20sp</dimen>
+
+</resources>

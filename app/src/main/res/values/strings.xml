@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BlurBG Blur Background</string>
+
+    <!-- replace "1Bestofall" with your Developer name.-->
+    <string name="more_link">1Bestofall</string>
+
+    <!--you change your admob id with this demo ad id here-->
+    <string name="ADMOB_APP_ID">ca-app-pub-1332480513983290~1344060974</string>
+    <string name="banner_google">ca-app-pub-1332480513983290/8223000958</string>
+    <string name="interstitial_google">ca-app-pub-1332480513983290/7790405048</string>
+
+
+    <string name="delete_confirm">Are you sure you want to delete?</string>
+    <string name="delete_no">CANCEL</string>
+    <string name="delete_yes">DELETE</string>
+    <string name="myCreation">My Creations</string>
+    <string name="moreApps">Apps</string>
+    <string name="blur">Blur Photo</string>
+    <string name="shape">Blur Shape</string>
+    <string name="image">Image</string>
+    <string name="reset">Reset</string>
+    <string name="undo">Undo</string>
+    <string name="fit">Fit</string>
+    <string name="bursh">Brush</string>
+    <string name="save_button">Save</string>
+    <string name="adjust">Adjust Brush Offset</string>
+    <string name="done">Done</string>
+    <string name="burshsize">Brush Size</string>
+    <string name="blurriness">Blurriness</string>
+    <string name="clear">Clear</string>
+    <string name="bluring">Blur</string>
+    <string name="pan">Pan</string>
+    <string name="save">Save</string>
+    <string name="appling">Applying Blur...</string>
+    <string name="border">Border</string>
+    <string name="plzwait">Please wait..</string>
+    <string name="create_dir_err">Can\\\'t create directory to save image.</string>
+    <string name="blur_tip">Draw your finger on image for Blur Effect</string>
+    <string name="new_button">Tap this button to select new image</string>
+    <string name="dont_show">Don\\\'t show this window again!</string>
+    <string name="okay">Okay</string>
+
+    <string name="facebook_app_id">566823140555330</string>
+</resources>
